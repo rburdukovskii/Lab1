@@ -8,6 +8,11 @@ begin
   
 end;
 
+function DaysInYearRange(a:integer):integer;
+begin
+  
+end;
+
 begin
   
 end.
