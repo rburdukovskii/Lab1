@@ -3,6 +3,11 @@ begin
   
 end;
 
+function DaysInYear(a:integer):integer;
+begin
+  
+end;
+
 begin
   
 end.
